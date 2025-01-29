@@ -19,5 +19,5 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "ShimmerLoadingExample"
+rootProject.name = "Shimmerable"
 include(":app")
